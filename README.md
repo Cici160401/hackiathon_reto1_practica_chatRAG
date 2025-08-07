@@ -22,7 +22,7 @@ Una API en **FastAPI** que combina LangChain, ChromaDB y OpenAI para ofrecer un 
 
 * Python 3.10 o superior
 * Clave de API de OpenAI
-* (Opcional) Docker y Docker Hub
+* (NO IMPLEMENTADO) Docker
 
 ---
 
@@ -179,5 +179,6 @@ git checkout -b feature/mi-mejora
 4. Abre un **Pull Request** describiendo tu aporte.
 
 ```
+
 
 
